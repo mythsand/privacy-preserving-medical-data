@@ -16,7 +16,7 @@
 
 **已完成：** 智能合约查询和写入已完成。
 
-**未完成：** 加密和python调用代码待完善。
+**未完成：** 暂无。
 
 ###### 三、attribute based access control
 
